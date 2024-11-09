@@ -1,4 +1,4 @@
-# România | Toate stagiile, cursurile gratuite, trainingurile și bootcamp-urile pentru ingineri software (dezvoltatori)
+# 👨‍💻 🚀 România | Toate stagiile, cursurile gratuite, trainingurile și bootcamp-urile pentru ingineri software (dezvoltatori)
 
 Pe această pagină vreau să adun toate stagiile de software la companiile românești (inclusiv cursuri/bootcamp-uri, etc.)
 pentru a ajuta studenții și pe cei care doresc să obțină primul lor loc de muncă în IT.

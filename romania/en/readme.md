@@ -1,4 +1,4 @@
-# Romania | All internships, free courses, trainings and bootcamps for software engineers (developers)
+# 👨‍💻 🚀 Romania | All internships, free courses, trainings and bootcamps for software engineers (developers)
 
 On this page I want to collect all software internships at Romanian companies (including courses/bootcamps, etc.) to help students and those who want to get their first job in IT
 
