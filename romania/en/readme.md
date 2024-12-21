@@ -3,6 +3,8 @@
 On this page I want to collect all software internships at Romanian companies (including only free courses/bootcamps,
 etc.) to help students and those who want to get their first job in IT
 
+> [!WARNING]  
+> This page is not supported any more and does not have all internships. Full list is now here - [https://devstart.xyz/en/romania/all-it-courses-and-internships-for-software-engineers](https://devstart.xyz/en/romania/all-it-courses-and-internships-for-software-engineers)
 
 | description                                                                                                      | company name           | type       | price | link                                                                                                                               |
 |------------------------------------------------------------------------------------------------------------------|------------------------|------------|-------|------------------------------------------------------------------------------------------------------------------------------------|

@@ -3,6 +3,9 @@
 Pe aceasta pagina vreau sa adun toate stagiile de software la companii romanesti (inclusiv doar cursuri/bootcamp-uri
 gratuite, etc.) pentru a ajuta studentii si cei care doresc sa obtina primul loc de munca in IT
 
+> [!WARNING]  
+> Această pagină nu mai este acceptată și nu are toate stagiile. Lista completă este acum aici - [https://devstart.xyz/ro/romania/toate-cursurile-si-stagiile-pentru-ingineri-software](https://devstart.xyz/ro/romania/toate-cursurile-si-stagiile-pentru-ingineri-software)
+
 | descriere                                                                                                        | numele companiei       | tip      | preţ    | link                                                                                                                               |
 |------------------------------------------------------------------------------------------------------------------|------------------------|----------|---------|------------------------------------------------------------------------------------------------------------------------------------|
 | PentaStagiu Bootcamp: Java, Angular, React, QA                                                                   | Pentalog               | bootcamp | gratuit | [link](https://digital-platform.pentalog.com/pentastagiu-brasov-registration.html)                                                 |
